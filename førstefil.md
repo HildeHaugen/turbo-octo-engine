@@ -1,0 +1,3 @@
+Ja
+Nei
+Kanskje
